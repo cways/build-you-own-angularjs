@@ -1,0 +1,23 @@
+{
+  "name": "build-you-own-angularjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chao lau <recuritis@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "preinstall": "cnpm install phantomjs"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-testem": "^0.5.22",
+    "jasmine": "^2.5.2",
+    "sinon": "^1.17.6",
+    "testem": "^1.13.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.0"
+  }
+}
