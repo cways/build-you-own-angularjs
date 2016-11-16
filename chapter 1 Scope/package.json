@@ -1,12 +1,8 @@
 {
-  "name": "chapter-0-project-setup",
+  "name": "chapter-1-scopes-and-digest",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "chao lau <recuritis@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "preinstall": "cnpm install phantomjs -g"
-  },
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
